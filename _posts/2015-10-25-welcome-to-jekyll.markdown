@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  "Livros, aprendendo a ler"
-date:   2015-10-25 00:39:33
+title:  "Confiança e produtividade"
+date:   2016-01-15 00:39:33
 categories: Blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Eu estava lendo sobre auto-confiança e descobri que ser produtivo é uma das formas de melhorar a sua confiança,
+então resolvi tentar produzir mais e procrastinar menos, a primeira coisa que eu fiz foi no mesmo dia que cheguei de viagem arrumar todo a minha mesa(já ta bagunçado), e em um ambiente mais organizado escrevi em PAPEL(nada de post-it de celular) pequenos objetivos que quero fazer todo dia e que eu posso alcançar mais facilmente, isso é extremamente importante pois eu muitas vezes quero fazer mil coisas ao mesmo tempo e sempre paro, vide a quantidade de blogs que eu tenho.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Os meus objetivos são:
+----------------------
 
-Jekyll also offers powerful support for code snippets:
+* Postar duas vezes por semana.
+* Arrumar a minha cama todo dia.
+* Estudar uma hora todo dia.
+* Ir para a academia todo dia de semana.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Eu estou fazendo um intercâmbio e isso me permite arriscar e tentar fazer coisas diferentes, porém estabelecer uma rotina
+é importante, por isso coloquei no calendario horários que tenho para chegar em meus objetivos. Com o tempo irei tentar
+objetivos cada vez mais desafiadores.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Estou tentando ter mais auto-confiança, por motivos diversos mas o mais importante é:
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+* __Melhorar minha comunicação__
+
+Me comunicando de forma mais pausada e com mais confiança, posso explicar melhor minhas ideias e cativar melhor as pessoas
+com quem estou conversando. Isso é útil em todos os aspectos da vida humana, como uma entrevista de emprego. E sem sombra de duvidas irá melhorar minha auto-estima.

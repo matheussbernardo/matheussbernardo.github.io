@@ -1,7 +1,7 @@
 # Site settings
 title: Matheus Bernardo
 email: matheussbernardo@gmail.com
-description: Vontade de escrever sobre programação e muita madrugada acordado.
+description: Blog focado em tecnologia, programação mas pode(vai) ter textos pessoais sobre assuntos diversos.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "matheussbernardo.github.io" # the base hostname & protocol for your site
 twitter_username: matheussbernardo
