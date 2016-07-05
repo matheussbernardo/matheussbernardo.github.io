@@ -5,3 +5,19 @@
 footer {
   padding: 25px;
 }
+
+.jumbotron h1{
+  color: rgb(56, 155, 187);
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-linkedin-square {
+  color: #0077B5;
+}
+
+.fa-github-square {
+  color: #333;
+}
