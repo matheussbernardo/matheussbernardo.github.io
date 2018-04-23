@@ -1,87 +1,35 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me / Curriculum
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hello.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My name is Matheus, I am an undergrad student from Brazil and  this is my last year
+as undergrad. I study Software Engineering in the University of Brasília.
 
-Thanks to the following:
+# Education
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+* University of Brasília, 2014-2018
+* Monmouth University 2015-2016
 
-List of contributors:
+# Experience
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+* Lab. Fábrica de Software, 2016-2017.  I helped to develop solutions in C# and JS on
+the context of public contests
+
+# Projects
+
+* [Owla](https://github.com/fga-gpp-mds/2016.2-Owla) is an open source tool to help
+students and teachers with an interactive slides presentation and a realtime Q&A
+
+* [Falko](https://github.com/falko- org/Falko) is a tool to help agile managers with
+projects and metrics.
+
+# Skills
+
+* Programming Languages: Ruby, C#, JavaScript, Java
+
+* Framework and Tools: Rails, ASP.NET, Vue.JS, Xamarin
