@@ -2,7 +2,7 @@
 title:       matheussbernardo
 email:       matheussbernardo@gmail.com
 author:      Matheus de Sousa Bernardo
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A simple blog about me"
 baseurl:     ""
 url:         "http://matheussbernardo.me"
 date_format: "%b %-d, %Y"
@@ -23,7 +23,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -69,7 +69,7 @@ telegram_username: matheussbernardo
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
