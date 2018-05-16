@@ -7,7 +7,7 @@ categories: GSoC
 ---
 
 Hi, my name is Matheus de Sousa Bernardo. You can find me on @matheussbernardo at
-github, twitter, telegram.
+github and @matheussber at telegram.
 
 I'm a Software Engineering undergrad student in the University of Brasília.
 
@@ -41,7 +41,7 @@ Trollolo and I hope to have a very good communication with both.
 I think GSoC is a great way to improve my skills, Trollolo is written in Ruby wich is a language
 that I have some experience but I'm willing to improve my ruby knowledge even more.
 
-OpenSUSE was a linux distro that I've already used but the main point for me to choose the organization
+OpenSUSE was a linux distro that I've already used but the main reason for me to choose the organization
 was that I liked the idea of Trollolo. Since I am a software engineering student I studies a lot about 
 software development software, agile and I think it's great that OpenSUSE encourages these umbrella projects
 especially related to the process of developing software.
