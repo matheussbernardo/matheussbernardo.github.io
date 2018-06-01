@@ -35,13 +35,13 @@ During the GSoC I will be using a Trello board to organize my work, we decided t
 sprints and define clearly the sprint backlog. If you wish to see how is the project going
 the link to my Trello board is [Trello Board](https://trello.com/b/0yfDE05U/gsoc-matheus-trollolo)
 
-I have two mentors Ana Martínes and Cornelius Schumacher, they are both core contributors of
+I have two mentors Ana Martínez and Cornelius Schumacher, they are both core contributors of
 Trollolo and I hope to have a very good communication with both.
 
 I think GSoC is a great way to improve my skills, Trollolo is written in Ruby wich is a language
-that I have some experience but I'm willing to improve my ruby knowledge even more.
+that I have some experience but I'm willing to improve my Ruby knowledge even more.
 
-OpenSUSE was a linux distro that I've already used but the main reason for me to choose the organization
+openSUSE was a linux distro that I've already used but the main reason for me to choose the organization
 was that I liked the idea of Trollolo. Since I am a software engineering student I studies a lot about 
 software development software, agile and I think it's great that OpenSUSE encourages these umbrella projects
 especially related to the process of developing software.
