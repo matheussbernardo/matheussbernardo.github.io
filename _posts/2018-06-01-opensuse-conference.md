@@ -3,7 +3,7 @@ layout:     post
 title:      openSUSE Conference 2018
 date:       2018-06-01 15:00:00
 summary:    My experience with openSUSE Conference and community.
-categories: GSoC, openSUSE, Conference
+categories: openSUSE
 ---
 
 Hi, my name is Matheus de Sousa Bernardo. 
