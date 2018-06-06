@@ -10,7 +10,7 @@ Hi, my name is Matheus de Sousa Bernardo.
 
 You can find me on @matheussbernardo at github and @matheussber at telegram.
 
-Today I write about the openSUSE Confereynnce that took place on Prague, Czech Republic.
+Today I write about the openSUSE Conference that took place on Prague, Czech Republic.
 
 It was a really cool conference where I could learn a lot about openSUSE and SUSE and some
 tools like salt, docker and kubernetes. 
