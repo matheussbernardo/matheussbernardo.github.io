@@ -11,7 +11,7 @@ My name is Matheus! I study Software Engineering in the University of Brasília,
 
 ### Education
 
-* Bachelor of Software Engineering at University of Brasília, 2014-2019
+* Bachelor of Software Engineering at Universidade de Brasília, 2014-2019
 * Exchange Program in Software Engineering at  Monmouth University, 2015-2016
 
 ### Experience
