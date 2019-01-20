@@ -7,7 +7,7 @@ tags: about
 
 Hello.
 
-My name is Matheus! I study Software Engineering in the University of Brasília, Brazil.
+My name is Matheus! I'm from Brazil.
 
 ### Education
 
