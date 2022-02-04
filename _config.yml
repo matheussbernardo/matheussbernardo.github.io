@@ -8,7 +8,6 @@ url:         "http://matheussbernardo.dev"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -59,7 +58,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: matheus-de-sousa-bernardo
 angellist_username:
 medium_id:
 bitcoin_url:
