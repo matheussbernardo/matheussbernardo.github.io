@@ -5,9 +5,12 @@ permalink: /about/
 tags: about
 ---
 
-Hello.
+Hello! My name is Matheus!
+I am currently a software engineer at Gympass. In this blog I will try to write about cool things that I'm learning.
+My interests are mostly in Functional Programming, Programming Languages, Distributed Systems and Improving the 
+life of my fellows software engineers.
 
-My name is Matheus! I'm from Brazil.
+## Curriculum
 
 ### Education
 
@@ -16,26 +19,11 @@ My name is Matheus! I'm from Brazil.
 
 ### Experience
 
-* Softway, 2018-Present. Internship working with ASP.NET, WPF, WinForms.
+* Gympass, December 2019 - Present. Software Engineer
+Working currently in the team responsible for paying the Gympass partners (gyms, studios, etc) using Scala, Kotlin with a variety of frameworks.
 
-* Lab. Fábrica de Software, 2016-2017.  Intership where I helped to develop solutions in C# and JS on
+
+* Softway, Aug 2018 - Jan 2019. Software Engineer Intern working with ASP.NET, WPF, WinForms in the company's CRM.
+
+* Lab. Fábrica de Software, 2016-2017.  Software Engineer Intern where I helped to develop solutions in C# and JS on
 the context of public contests for the CEBRASPE.
-
-### Projects and Open Source
-
-* [Trollolo](https://github.com/openSUSE/trollolo) Google Summer of Code developing features for Trollolo
-a project from openSUSE.
-
-* [Owla](https://github.com/fga-gpp-mds/2016.2-Owla) is an open source tool to help
-students and teachers with an interactive slides presentation and a realtime Q&A. Written in Ruby on Rails.
-
-* [Falko](https://github.com/falko-org/Falko) is a tool to help agile managers with
-projects and metrics. Written in Ruby on Rails and VueJS.
-
-
-
-### Skills
-
-* Programming Languages: Ruby, C#, JavaScript, Elixir
-
-* Framework and Tools: Rails, ASP.NET, VueJS, Xamarin

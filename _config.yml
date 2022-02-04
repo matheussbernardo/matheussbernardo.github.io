@@ -4,7 +4,7 @@ email:       matheussbernardo@gmail.com
 author:      Matheus de Sousa Bernardo
 description: "A simple blog about me"
 baseurl:     ""
-url:         "http://matheussbernardo.me"
+url:         "http://matheussbernardo.dev"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
